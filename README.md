@@ -3,8 +3,11 @@ A repo to list all kinds of open source software
 
 | Type | Name | Link |
 | ------------- | ------------- | ----- |
+| CI | Abstruse | https://abstruse.bleenco.io/ |
+| CI | Jenkins | https://jenkins.io |
 | Drawing | Draw IO |https://www.draw.io/ |
 | File archiver | 7-Zip | https://www.7-zip.org/ |
+| Game | The Battle For Wesnoth | https://www.wesnoth.org/ |
 | Image editor | GIMP | https://www.gimp.org/ |
 | Media player | VLC | https://www.videolan.org/vlc/ |
 | Office suite | Libre Office | https://www.libreoffice.org/ |
