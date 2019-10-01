@@ -11,6 +11,7 @@ A repo to list all kinds of open source software
 | Password Manager | KeePass | https://keepass.info/ |
 | Password Manager | LessPass | https://lesspass.com/ |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ |
+| Terminal | Hyper | https://hyper.is/ |
 | Text Editor | Geany | https://www.geany.org/ |
 | Text Editor | Notepad++ | https://notepad-plus-plus.org/ |
 | Text Editor | Visual Studio Code | https://code.visualstudio.com/ |
