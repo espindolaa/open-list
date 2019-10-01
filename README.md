@@ -3,6 +3,7 @@ A repo to list all kinds of open source software
 
 | Type | Name | Link |
 | ------------- | ------------- | ----- |
+| Email client | Thunderbird | https://www.thunderbird.net |
 | Drawing | Draw IO |https://www.draw.io/ |
 | File archiver | 7-Zip | https://www.7-zip.org/ |
 | Image editor | GIMP | https://www.gimp.org/ |
