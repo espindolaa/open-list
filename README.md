@@ -3,12 +3,16 @@ A repo to list all kinds of open source software
 
 | Type | Name | Link |
 | ------------- | ------------- | ----- |
+| CI | Abstruse | https://abstruse.bleenco.io/ |
+| CI | Jenkins | https://jenkins.io |
 | File archiver | 7-Zip | https://www.7-zip.org/ |
+| Game | The Battle For Wesnoth | https://www.wesnoth.org/ |
 | Image editor | GIMP | https://www.gimp.org/ |
 | Media player | VLC | https://www.videolan.org/vlc/ |
 | Office suite | Libre Office | https://www.libreoffice.org/ |
 | Password Manager | KeePass | https://keepass.info/ |
 | Torrent client | QBitTorrent | https://www.qbittorrent.org/ |
+| Web Browser | DuckDuckGo | https://duckduckgo.com/ |
 | Web Browser | Mozilla Firefox | https://www.mozilla.org/en-US/ |
 | Web Browser | Tor | https://www.torproject.org/ |
 
