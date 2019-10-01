@@ -3,18 +3,24 @@ A repo to list all kinds of open source software
 
 | Type | Name | Link |
 | ------------- | ------------- | ----- |
-| Drawing | Draw IO |https://www.draw.io/ |
+| Drawing | Draw IO | https://www.draw.io/ |
+| Drawing | Krita | https://krita.org/en/ |
 | File archiver | 7-Zip | https://www.7-zip.org/ |
 | Image editor | GIMP | https://www.gimp.org/ |
+| Media player | MPV | https://mpv.io/ |
 | Media player | VLC | https://www.videolan.org/vlc/ |
 | Office suite | Libre Office | https://www.libreoffice.org/ |
-| Password Manager | KeePass | https://keepass.info/ |
-| Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ |
-| Text Editor | Notepad++ | https://notepad-plus-plus.org/ |
-| Text Editor | Visual Studio Code | https://code.visualstudio.com/ |
+| Password manager | KeePass | https://keepass.info/ |
+| Password manager | pass | https://www.passwordstore.org/ |
+| Slide presentation | Deck Deck Go | https://deckdeckgo.com/ |
+| Text editor | Emacs | https://www.gnu.org/software/emacs/ |
+| Text editor | Notepad++ | https://notepad-plus-plus.org/ |
+| Text editor | Vim | https://www.vim.org/ |
+| Torrent client | Deluge | https://www.deluge-torrent.org/ |
 | Torrent client | QBitTorrent | https://www.qbittorrent.org/ |
-| Web Browser | Mozilla Firefox | https://www.mozilla.org/en-US/ |
-| Web Browser | Tor | https://www.torproject.org/ |
+| Torrent client | Transmission | https://transmissionbt.com/ |
+| Web browser | Mozilla Firefox | https://www.mozilla.org/en-US/ |
+| Web browser | Tor | https://www.torproject.org/ |
 
 
 # contributing
