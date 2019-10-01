@@ -10,6 +10,7 @@ A repo to list all kinds of open source software
 | Office suite | Libre Office | https://www.libreoffice.org/ |
 | Password Manager | KeePass | https://keepass.info/ |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ |
+| Text Editor | Geany | https://www.geany.org/ |
 | Text Editor | Notepad++ | https://notepad-plus-plus.org/ |
 | Text Editor | Visual Studio Code | https://code.visualstudio.com/ |
 | Torrent client | QBitTorrent | https://www.qbittorrent.org/ |
