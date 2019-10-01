@@ -5,6 +5,7 @@ A repo to list all kinds of open source software
 | ------------- | ------------- | ----- |
 | CI | Abstruse | https://abstruse.bleenco.io/ |
 | CI | Jenkins | https://jenkins.io |
+| CI | Travis | https://travis-ci.org |
 | Drawing | Draw IO |https://www.draw.io/ |
 | File archiver | 7-Zip | https://www.7-zip.org/ |
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ |
