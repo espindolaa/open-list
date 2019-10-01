@@ -8,6 +8,9 @@ A repo to list all kinds of open source software
 | Image editor | GIMP | https://www.gimp.org/ |
 | Media player | VLC | https://www.videolan.org/vlc/ |
 | Office suite | Libre Office | https://www.libreoffice.org/ |
+| Operating system | Deepin | https://www.deepin.org/ |
+| Operating System | Ubuntu | https://ubuntu.com/ |
+| Operating System | Xubuntu | https://xubuntu.org |
 | Password Manager | KeePass | https://keepass.info/ |
 | Password Manager | LessPass | https://lesspass.com/ |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ |
