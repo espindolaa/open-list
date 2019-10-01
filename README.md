@@ -9,6 +9,7 @@ A repo to list all kinds of open source software
 | Media player | VLC | https://www.videolan.org/vlc/ |
 | Office suite | Libre Office | https://www.libreoffice.org/ |
 | Password Manager | KeePass | https://keepass.info/ |
+| Password Manager | LessPass | https://lesspass.com/ |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ |
 | Text Editor | Notepad++ | https://notepad-plus-plus.org/ |
 | Text Editor | Visual Studio Code | https://code.visualstudio.com/ |
