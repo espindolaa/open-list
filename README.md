@@ -18,6 +18,7 @@ A repo to list all kinds of open source software
 | Text Editor | Notepad++ | https://notepad-plus-plus.org/ |
 | Text Editor | Visual Studio Code | https://code.visualstudio.com/ |
 | Torrent client | QBitTorrent | https://www.qbittorrent.org/ |
+| Torrent client | Transmission | https://transmissionbt.com/ |
 | Web Browser | Chromium | https://www.chromium.org/ |
 | Web Browser | Mozilla Firefox | https://www.mozilla.org/en-US/ |
 | Web Browser | Tor | https://www.torproject.org/ |
