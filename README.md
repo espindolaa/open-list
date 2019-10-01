@@ -11,8 +11,8 @@ A repo to list all kinds of open source software
 | Media player | VLC | https://www.videolan.org/vlc/ |
 | Office suite | Libre Office | https://www.libreoffice.org/ |
 | Password Manager | KeePass | https://keepass.info/ |
+| Search Engine | DuckDuckGo | https://duckduckgo.com/ |
 | Torrent client | QBitTorrent | https://www.qbittorrent.org/ |
-| Web Browser | DuckDuckGo | https://duckduckgo.com/ |
 | Web Browser | Mozilla Firefox | https://www.mozilla.org/en-US/ |
 | Web Browser | Tor | https://www.torproject.org/ |
 
