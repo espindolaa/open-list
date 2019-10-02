@@ -7,7 +7,7 @@ A repo to list all kinds of open source software
 | File archiver | 7-Zip | https://www.7-zip.org/ |
 | Image editor | GIMP | https://www.gimp.org/ |
 | Media player | VLC | https://www.videolan.org/vlc/ |
-| Message Text | Telegram | https://desktop.telegram.org/ |
+| Messaging | Telegram | https://telegram.org/ |
 | Office suite | Libre Office | https://www.libreoffice.org/ |
 | Password Manager | KeePass | https://keepass.info/ |
 | Password Manager | LessPass | https://lesspass.com/ |
