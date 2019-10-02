@@ -13,6 +13,7 @@ A repo to list all kinds of open source software
 | Image Editor | GIMP | https://www.gimp.org/ |
 | Media Player | MPV | https://mpv.io/ |
 | Media Player | VLC | https://www.videolan.org/vlc/ |
+| Messaging | Telegram | https://telegram.org/ |
 | Office Suite | Libre Office | https://www.libreoffice.org/ |
 | Password Manager | KeePass | https://keepass.info/ |
 | Password Manager | LessPass | https://lesspass.com/ |
