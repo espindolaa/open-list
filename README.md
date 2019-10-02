@@ -8,6 +8,7 @@ A repo to list all kinds of open source software
 | CI | Travis | https://travis-ci.org |
 | Computer Vision | OpenCV | https://opencv.org |
 | Drawing | Draw IO |https://www.draw.io/ |
+| E-mail | Thunderbird | https://www.thunderbird.net |
 | File archiver | 7-Zip | https://www.7-zip.org/ |
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ |
 | Image editor | GIMP | https://www.gimp.org/ |
