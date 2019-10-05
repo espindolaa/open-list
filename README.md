@@ -11,6 +11,7 @@ A repo to list all kinds of open source software
 | Diff Tool | WinMerge | https://winmerge.org/ | https://github.com/winmerge/winmerge |
 | Drawing | Draw IO | https://www.draw.io/ | https://github.com/jgraph/drawio |
 | Drawing | Krita | https://krita.org/en/ | https://invent.kde.org/kde/krita/ |
+| Email Client | Thunderbird | https://www.thunderbird.net | https://hg.mozilla.org/comm-central/ |
 | File Archiver | 7-Zip | https://www.7-zip.org/ | https://sourceforge.net/projects/sevenzip/ |
 | FTP Manager | FileZilla | https://filezilla-project.org/ | https://download.filezilla-project.org/client/ |
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ | https://github.com/wesnoth/wesnoth |
