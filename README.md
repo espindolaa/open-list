@@ -16,6 +16,7 @@ A repo to list all kinds of open source software
 | File Archiver | 7-Zip | https://www.7-zip.org/ | https://sourceforge.net/projects/sevenzip/ |
 | FTP Manager | FileZilla | https://filezilla-project.org/ | https://download.filezilla-project.org/client/ |
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ | https://github.com/wesnoth/wesnoth |
+| Graphics | Blender | https://www.blender.org/ | https://git.blender.org/gitweb/ |
 | Image Editor | GIMP | https://www.gimp.org/ | https://www.gimp.org/source/ |
 | Media Player | MPV | https://mpv.io/ | https://github.com/mpv-player/mpv |
 | Media Player | VLC | https://www.videolan.org/vlc/ | https://www.videolan.org/vlc/download-sources.html |
