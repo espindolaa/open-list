@@ -7,6 +7,7 @@ A repo to list all kinds of open source software
 | CI | Abstruse | https://abstruse.bleenco.io/ | https://github.com/bleenco/abstruse |
 | CI | Jenkins | https://jenkins.io | https://github.com/jenkinsci |
 | CI | Travis | https://travis-ci.org | https://github.com/travis-ci/travis-ci |
+| Container Orchestrator | Kubernetes | https://kubernetes.io/ | https://github.com/kubernetes/kubernetes |
 | Console Emulator | Cmder | https://cmder.net/ | https://github.com/cmderdev/cmder/ |
 | Diff Tool | WinMerge | https://winmerge.org/ | https://github.com/winmerge/winmerge |
 | Drawing | Draw IO | https://www.draw.io/ | https://github.com/jgraph/drawio |
@@ -22,6 +23,7 @@ A repo to list all kinds of open source software
 | Office Suite | Libre Office | https://www.libreoffice.org/ | https://www.libreoffice.org/download/download/ |
 | Operating System | Deepin | https://www.deepin.org/ | https://github.com/linuxdeepin |
 | Operating System | Ubuntu | https://ubuntu.com/ | https://wiki.ubuntu.com/Kernel/SourceCode |
+| Package Manager | Homebrew | https://brew.sh/ | https://github.com/Homebrew/brew |
 | Password Manager | KeePass | https://keepass.info/ | https://sourceforge.net/projects/keepass/ |
 | Password Manager | LessPass | https://lesspass.com/ | https://github.com/lesspass/lesspass |
 | Password Manager | pass | https://www.passwordstore.org/ | https://git.zx2c4.com/password-store/ |
