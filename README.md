@@ -28,6 +28,7 @@ A repo to list all kinds of open source software
 | Password Manager | LessPass | https://lesspass.com/ | https://github.com/lesspass/lesspass |
 | Password Manager | pass | https://www.passwordstore.org/ | https://git.zx2c4.com/password-store/ |
 | Personal Finance | Homebank | http://homebank.free.fr/en/index.php | https://code.launchpad.net/homebank |
+| Programming Language | Go | https://golang.org/ | https://go.googlesource.com/go |
 | Screen Capture | ShareX | https://getsharex.com/ | https://github.com/ShareX/ShareX |
 | Shell | Zsh | http://www.zsh.org/ | http://zsh.sourceforge.net/Arc/source.html |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ | https://github.com/deckgo/deckdeckgo |
