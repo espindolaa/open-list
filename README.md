@@ -32,6 +32,7 @@ A repo to list all kinds of open source software
 | Shell | Zsh | http://www.zsh.org/ | http://zsh.sourceforge.net/Arc/source.html |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ | https://github.com/deckgo/deckdeckgo |
 | Terminal | Hyper | https://hyper.is/ | https://github.com/zeit/hyper |
+| Text Editor | Atom | https://atom.io/ | https://github.com/atom/atom |
 | Text Editor | Emacs | https://www.gnu.org/software/emacs/ | https://github.com/emacs-mirror/emacs |
 | Text Editor | Geany | https://www.geany.org/ | https://github.com/geany |
 | Text Editor | Notepad++ | https://notepad-plus-plus.org/ | https://github.com/notepad-plus-plus/notepad-plus-plus |
