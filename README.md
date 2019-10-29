@@ -37,6 +37,7 @@ A repo to list all kinds of open source software
 | Text Editor | Atom | https://atom.io/ | https://github.com/atom/atom |
 | Text Editor | Emacs | https://www.gnu.org/software/emacs/ | https://github.com/emacs-mirror/emacs |
 | Text Editor | Geany | https://www.geany.org/ | https://github.com/geany |
+| Text Editor | Neovim | https://neovim.io/ | https://github.com/neovim/neovim |
 | Text Editor | Notepad++ | https://notepad-plus-plus.org/ | https://github.com/notepad-plus-plus/notepad-plus-plus |
 | Text Editor | Vim | https://www.vim.org/ | https://www.vim.org/sources.php |
 | Text Editor | Visual Studio Code | https://code.visualstudio.com/ | https://github.com/Microsoft/vscode/ |
