@@ -7,8 +7,10 @@ A repo to list all kinds of open source software
 | CI | Abstruse | https://abstruse.bleenco.io/ | https://github.com/bleenco/abstruse |
 | CI | Jenkins | https://jenkins.io | https://github.com/jenkinsci |
 | CI | Travis | https://travis-ci.org | https://github.com/travis-ci/travis-ci |
+| Container | Docker | https://www.docker.com/ | https://github.com/docker |
 | Container Orchestrator | Kubernetes | https://kubernetes.io/ | https://github.com/kubernetes/kubernetes |
 | Console Emulator | Cmder | https://cmder.net/ | https://github.com/cmderdev/cmder/ |
+| Creation Suite | Blender | https://www.blender.org/ | https://git.blender.org/gitweb/ |
 | Diff Tool | WinMerge | https://winmerge.org/ | https://github.com/winmerge/winmerge |
 | Drawing | Draw IO | https://www.draw.io/ | https://github.com/jgraph/drawio |
 | Drawing | Krita | https://krita.org/en/ | https://invent.kde.org/kde/krita/ |
@@ -17,6 +19,7 @@ A repo to list all kinds of open source software
 | FTP Manager | FileZilla | https://filezilla-project.org/ | https://download.filezilla-project.org/client/ |
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ | https://github.com/wesnoth/wesnoth |
 | Image Editor | GIMP | https://www.gimp.org/ | https://www.gimp.org/source/ |
+| Key Manager | Keybase | https://keybase.io/ | https://github.com/keybase/client |
 | Media Player | MPV | https://mpv.io/ | https://github.com/mpv-player/mpv |
 | Media Player | VLC | https://www.videolan.org/vlc/ | https://www.videolan.org/vlc/download-sources.html |
 | Messaging | Telegram | https://telegram.org/ | https://github.com/TelegramOrg |
@@ -27,14 +30,18 @@ A repo to list all kinds of open source software
 | Password Manager | KeePass | https://keepass.info/ | https://sourceforge.net/projects/keepass/ |
 | Password Manager | LessPass | https://lesspass.com/ | https://github.com/lesspass/lesspass |
 | Password Manager | pass | https://www.passwordstore.org/ | https://git.zx2c4.com/password-store/ |
+| PDF Viewer | Zathura | https://pwmt.org/projects/zathura | https://git.pwmt.org/pwmt/zathura |
 | Personal Finance | Homebank | http://homebank.free.fr/en/index.php | https://code.launchpad.net/homebank |
 | Screen Capture | ShareX | https://getsharex.com/ | https://github.com/ShareX/ShareX |
+| Shell | Fish | https://fishshell.com/ | https://github.com/fish-shell/fish-shell |
 | Shell | Zsh | http://www.zsh.org/ | http://zsh.sourceforge.net/Arc/source.html |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ | https://github.com/deckgo/deckdeckgo |
 | Terminal | Hyper | https://hyper.is/ | https://github.com/zeit/hyper |
 | Terminal | rxvt-unicode | http://software.schmorp.de/pkg/rxvt-unicode.html | https://github.com/exg/rxvt-unicode |
+| Text Editor | Atom | https://atom.io/ | https://github.com/atom/atom |
 | Text Editor | Emacs | https://www.gnu.org/software/emacs/ | https://github.com/emacs-mirror/emacs |
 | Text Editor | Geany | https://www.geany.org/ | https://github.com/geany |
+| Text Editor | Neovim | https://neovim.io/ | https://github.com/neovim/neovim |
 | Text Editor | Notepad++ | https://notepad-plus-plus.org/ | https://github.com/notepad-plus-plus/notepad-plus-plus |
 | Text Editor | Vim | https://www.vim.org/ | https://www.vim.org/sources.php |
 | Text Editor | Visual Studio Code | https://code.visualstudio.com/ | https://github.com/Microsoft/vscode/ |
@@ -47,6 +54,7 @@ A repo to list all kinds of open source software
 | Video Editor | OpenShot | https://www.openshot.org/ | https://github.com/OpenShot |
 | Video Editor | Pitivi | http://www.pitivi.org/ | https://github.com/GNOME/pitivi |
 | Web Browser | Chromium | https://www.chromium.org/ | https://chromium.googlesource.com/chromium/src.git |
+| Web Browser | Midori | https://www.midori-browser.org | https://github.com/midori-browser/core |
 | Web Browser | Mozilla Firefox | https://www.mozilla.org/en-US/ | https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Directory_structure |
 | Web Browser | Tor | https://www.torproject.org/ | https://dist.torproject.org/ |
 
