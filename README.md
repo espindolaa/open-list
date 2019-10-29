@@ -28,6 +28,7 @@ A repo to list all kinds of open source software
 | Password Manager | KeePass | https://keepass.info/ | https://sourceforge.net/projects/keepass/ |
 | Password Manager | LessPass | https://lesspass.com/ | https://github.com/lesspass/lesspass |
 | Password Manager | pass | https://www.passwordstore.org/ | https://git.zx2c4.com/password-store/ |
+| PDF Viewer | Zathura | https://pwmt.org/projects/zathura | https://git.pwmt.org/pwmt/zathura |
 | Personal Finance | Homebank | http://homebank.free.fr/en/index.php | https://code.launchpad.net/homebank |
 | Screen Capture | ShareX | https://getsharex.com/ | https://github.com/ShareX/ShareX |
 | Shell | Fish | https://fishshell.com/ | https://github.com/fish-shell/fish-shell |
