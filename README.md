@@ -18,6 +18,7 @@ A repo to list all kinds of open source software
 | FTP Manager | FileZilla | https://filezilla-project.org/ | https://download.filezilla-project.org/client/ |
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ | https://github.com/wesnoth/wesnoth |
 | Image Editor | GIMP | https://www.gimp.org/ | https://www.gimp.org/source/ |
+| Key Manager | Keybase | https://keybase.io/ | https://github.com/keybase/client |
 | Media Player | MPV | https://mpv.io/ | https://github.com/mpv-player/mpv |
 | Media Player | VLC | https://www.videolan.org/vlc/ | https://www.videolan.org/vlc/download-sources.html |
 | Messaging | Telegram | https://telegram.org/ | https://github.com/TelegramOrg |
