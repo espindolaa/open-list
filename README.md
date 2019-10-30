@@ -33,6 +33,7 @@ A repo to list all kinds of open source software
 | PDF Viewer | Zathura | https://pwmt.org/projects/zathura | https://git.pwmt.org/pwmt/zathura |
 | Personal Finance | Homebank | http://homebank.free.fr/en/index.php | https://code.launchpad.net/homebank |
 | Screen Capture | ShareX | https://getsharex.com/ | https://github.com/ShareX/ShareX |
+| Shell | Bash | https://www.gnu.org/software/bash/ | http://ftp.gnu.org/gnu/bash/ |
 | Shell | Fish | https://fishshell.com/ | https://github.com/fish-shell/fish-shell |
 | Shell | Zsh | http://www.zsh.org/ | http://zsh.sourceforge.net/Arc/source.html |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ | https://github.com/deckgo/deckdeckgo |
