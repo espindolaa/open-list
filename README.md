@@ -48,7 +48,7 @@ A repo to list all kinds of open source software
 | Text Editor | Vim | https://www.vim.org/ | https://www.vim.org/sources.php |
 | Text Editor | Visual Studio Code | https://code.visualstudio.com/ | https://github.com/Microsoft/vscode/ |
 | Torrent Client | Deluge | https://www.deluge-torrent.org/ | https://git.deluge-torrent.org/deluge |
-| Torrent client | qBittorrent | https://www.qbittorrent.org/ | https://github.com/qbittorrent/qBittorrent |
+| Torrent Client | qBittorrent | https://www.qbittorrent.org/ | https://github.com/qbittorrent/qBittorrent |
 | Torrent Client | Transmission | https://transmissionbt.com/ | https://github.com/transmission/transmission |
 | USB Formatting | Rufus | https://rufus.ie/ | https://github.com/pbatard/rufus |
 | Vector Graphics Editor | Inkscape | https://inkscape.org/ | https://gitlab.com/inkscape/inkscape |
