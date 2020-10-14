@@ -57,6 +57,7 @@ A repo to list all kinds of open source software
 | Video Editor | HandBrake | https://handbrake.fr/ | https://github.com/HandBrake/HandBrake |
 | Video Editor | OpenShot | https://www.openshot.org/ | https://github.com/OpenShot |
 | Video Editor | Pitivi | http://www.pitivi.org/ | https://github.com/GNOME/pitivi |
+| VPN | OpenVPN | https://openvpn.net/ | https://github.com/OpenVPN/openvpn |
 | Web Browser | Brave | https://brave.com/ | https://github.com/brave/ |
 | Web Browser | Chromium | https://www.chromium.org/ | https://chromium.googlesource.com/chromium/src.git |
 | Web Browser | Midori | https://www.midori-browser.org | https://github.com/midori-browser/core |
