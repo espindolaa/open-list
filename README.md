@@ -12,6 +12,7 @@ A repo to list all kinds of open source software
 | Container Orchestrator | Kubernetes | https://kubernetes.io/ | https://github.com/kubernetes/kubernetes |
 | Console Emulator | Cmder | https://cmder.net/ | https://github.com/cmderdev/cmder/ |
 | Creation Suite | Blender | https://www.blender.org/ | https://git.blender.org/gitweb/ |
+| Database Management | DBeaver | https://dbeaver.io/ | https://github.com/dbeaver/dbeaver |
 | Database Management | Sequel Pro | https://www.sequelpro.com/ | https://github.com/sequelpro/sequelpro |
 | Diff Tool | WinMerge | https://winmerge.org/ | https://github.com/winmerge/winmerge |
 | Drawing | Draw IO | https://www.draw.io/ | https://github.com/jgraph/drawio |
