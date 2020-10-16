@@ -12,6 +12,7 @@ A repo to list all kinds of open source software
 | Container Orchestrator | Kubernetes | https://kubernetes.io/ | https://github.com/kubernetes/kubernetes |
 | Console Emulator | Cmder | https://cmder.net/ | https://github.com/cmderdev/cmder/ |
 | Creation Suite | Blender | https://www.blender.org/ | https://git.blender.org/gitweb/ |
+| Database Management | DBeaver | https://dbeaver.io/ | https://github.com/dbeaver/dbeaver |
 | Database Management | Sequel Pro | https://www.sequelpro.com/ | https://github.com/sequelpro/sequelpro |
 | Diff Tool | WinMerge | https://winmerge.org/ | https://github.com/winmerge/winmerge |
 | Drawing | Draw IO | https://www.draw.io/ | https://github.com/jgraph/drawio |
@@ -22,6 +23,7 @@ A repo to list all kinds of open source software
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ | https://github.com/wesnoth/wesnoth |
 | Hardware Monitor | Open Hardware Monitor | https://openhardwaremonitor.org/ | https://github.com/openhardwaremonitor/openhardwaremonitor |
 | Image Editor | GIMP | https://www.gimp.org/ | https://www.gimp.org/source/ |
+| Kanban | Wekan | https://wekan.github.io/ | https://github.com/wekan/wekan |
 | Key Manager | Keybase | https://keybase.io/ | https://github.com/keybase/client |
 | Media Player | MPV | https://mpv.io/ | https://github.com/mpv-player/mpv |
 | Media Player | VLC | https://www.videolan.org/vlc/ | https://www.videolan.org/vlc/download-sources.html |
