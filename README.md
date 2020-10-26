@@ -65,7 +65,7 @@ A repo to list all kinds of open source software
 | Web Browser | Midori | https://www.midori-browser.org | https://github.com/midori-browser/core |
 | Web Browser | Mozilla Firefox | https://www.mozilla.org/en-US/ | https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Directory_structure |
 | Web Browser | Tor | https://www.torproject.org/ | https://dist.torproject.org/ |
-
+| Web Browser | K-Meleon | http://kmeleonbrowser.org/ | https://sourceforge.net/p/kmeleon/source/ci/default/tree/
 
 # contributing
 Feel free to add/remove/change the list. Simply open a PR and I'll check it as soon as possible. As a convention, the list is sorted alphabetically by the _Type_ column, followed by the _Name_ column.
