@@ -42,6 +42,7 @@ A repo to list all kinds of open source software
 | Shell | Fish | https://fishshell.com/ | https://github.com/fish-shell/fish-shell |
 | Shell | Zsh | http://www.zsh.org/ | http://zsh.sourceforge.net/Arc/source.html |
 | Slide Presentation | Deck Deck Go | https://deckdeckgo.com/ | https://github.com/deckgo/deckdeckgo |
+| Screen Light Control | LightBulb | NA | https://github.com/Tyrrrz/LightBulb/ |
 | Terminal | Hyper | https://hyper.is/ | https://github.com/zeit/hyper |
 | Terminal | rxvt-unicode | http://software.schmorp.de/pkg/rxvt-unicode.html | https://github.com/exg/rxvt-unicode |
 | Text Editor | Atom | https://atom.io/ | https://github.com/atom/atom |
