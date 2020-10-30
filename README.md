@@ -62,6 +62,7 @@ A repo to list all kinds of open source software
 | VPN | OpenVPN | https://openvpn.net/ | https://github.com/OpenVPN/openvpn |
 | Web Browser | Brave | https://brave.com/ | https://github.com/brave/ |
 | Web Browser | Chromium | https://www.chromium.org/ | https://chromium.googlesource.com/chromium/src.git |
+| Web Browser | K-Meleon | http://kmeleonbrowser.org/ | https://sourceforge.net/p/kmeleon/source/ci/default/tree/
 | Web Browser | Midori | https://www.midori-browser.org | https://github.com/midori-browser/core |
 | Web Browser | Mozilla Firefox | https://www.mozilla.org/en-US/ | https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Directory_structure |
 | Web Browser | Tor | https://www.torproject.org/ | https://dist.torproject.org/ |
