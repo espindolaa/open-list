@@ -28,6 +28,7 @@ A repo to list all kinds of open source software
 | Media Player | MPV | https://mpv.io/ | https://github.com/mpv-player/mpv |
 | Media Player | VLC | https://www.videolan.org/vlc/ | https://www.videolan.org/vlc/download-sources.html |
 | Messaging | Telegram | https://telegram.org/ | https://github.com/TelegramOrg |
+| Notes | Joplin | https://joplinapp.org/ | https://github.com/laurent22/joplin |
 | Office Suite | Libre Office | https://www.libreoffice.org/ | https://www.libreoffice.org/download/download/ |
 | Operating System | Deepin | https://www.deepin.org/ | https://github.com/linuxdeepin |
 | Operating System | Ubuntu | https://ubuntu.com/ | https://wiki.ubuntu.com/Kernel/SourceCode |
