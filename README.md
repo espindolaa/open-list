@@ -58,6 +58,7 @@ A repo to list all kinds of open source software
 | Torrent Client | Transmission | https://transmissionbt.com/ | https://github.com/transmission/transmission |
 | USB Formatting | Rufus | https://rufus.ie/ | https://github.com/pbatard/rufus |
 | Vector Graphics Editor | Inkscape | https://inkscape.org/ | https://gitlab.com/inkscape/inkscape |
+| Video Downloader | youtube-dl | https://youtube-dl.org/ | https://github.com/ytdl-org/youtube-dl |
 | Video Editor | HandBrake | https://handbrake.fr/ | https://github.com/HandBrake/HandBrake |
 | Video Editor | OpenShot | https://www.openshot.org/ | https://github.com/OpenShot |
 | Video Editor | Pitivi | http://www.pitivi.org/ | https://github.com/GNOME/pitivi |
