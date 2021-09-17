@@ -23,6 +23,7 @@ A repo to list all kinds of open source software
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ | https://github.com/wesnoth/wesnoth |
 | Hardware Monitor | Open Hardware Monitor | https://openhardwaremonitor.org/ | https://github.com/openhardwaremonitor/openhardwaremonitor |
 | Image Editor | GIMP | https://www.gimp.org/ | https://www.gimp.org/source/ |
+| Image Editor | Photo Demon | https://www.photodemon.org/ | https://github.com/tannerhelland/PhotoDemon |
 | Kanban | Wekan | https://wekan.github.io/ | https://github.com/wekan/wekan |
 | Key Manager | Keybase | https://keybase.io/ | https://github.com/keybase/client |
 | Media Player | MPV | https://mpv.io/ | https://github.com/mpv-player/mpv |
