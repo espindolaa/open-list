@@ -48,6 +48,7 @@ A repo to list all kinds of open source software
 | Screen Light Control | LightBulb | N/A | https://github.com/Tyrrrz/LightBulb/ |
 | Terminal | Hyper | https://hyper.is/ | https://github.com/zeit/hyper |
 | Terminal | rxvt-unicode | http://software.schmorp.de/pkg/rxvt-unicode.html | https://github.com/exg/rxvt-unicode |
+| Text Editor | AkelPad | http://akelpad.sourceforge.net/ | https://sourceforge.net/projects/akelpad/ |
 | Text Editor | Atom | https://atom.io/ | https://github.com/atom/atom |
 | Text Editor | Emacs | https://www.gnu.org/software/emacs/ | https://github.com/emacs-mirror/emacs |
 | Text Editor | Geany | https://www.geany.org/ | https://github.com/geany |
