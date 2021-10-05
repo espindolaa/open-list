@@ -21,6 +21,7 @@ A repo to list all kinds of open source software
 | Email Client | Thunderbird | https://www.thunderbird.net | https://hg.mozilla.org/comm-central/ |
 | File Archiver | 7-Zip | https://www.7-zip.org/ | https://sourceforge.net/projects/sevenzip/ |
 | FTP Manager | FileZilla | https://filezilla-project.org/ | https://download.filezilla-project.org/client/ |
+| FTP Manager | WinSCP | https://winscp.net/ | https://github.com/winscp/winscp |
 | Game | The Battle For Wesnoth | https://www.wesnoth.org/ | https://github.com/wesnoth/wesnoth |
 | Hardware Monitor | Open Hardware Monitor | https://openhardwaremonitor.org/ | https://github.com/openhardwaremonitor/openhardwaremonitor |
 | Image Editor | GIMP | https://www.gimp.org/ | https://www.gimp.org/source/ |
