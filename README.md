@@ -28,6 +28,7 @@ A repo to list all kinds of open source software
 | Image Editor | Photo Demon | https://www.photodemon.org/ | https://github.com/tannerhelland/PhotoDemon |
 | Kanban | Wekan | https://wekan.github.io/ | https://github.com/wekan/wekan |
 | Key Manager | Keybase | https://keybase.io/ | https://github.com/keybase/client |
+| Live Streaming | OBS Studio | https://obsproject.com/ | https://github.com/obsproject/obs-studio |
 | Media Player | MPV | https://mpv.io/ | https://github.com/mpv-player/mpv |
 | Media Player | VLC | https://www.videolan.org/vlc/ | https://www.videolan.org/vlc/download-sources.html |
 | Messaging | Telegram | https://telegram.org/ | https://github.com/TelegramOrg |
