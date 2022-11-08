@@ -69,6 +69,7 @@ A repo to list all kinds of open source software
 | Video Editor | OpenShot | https://www.openshot.org/ | https://github.com/OpenShot |
 | Video Editor | Pitivi | http://www.pitivi.org/ | https://github.com/GNOME/pitivi |
 | VPN | OpenVPN | https://openvpn.net/ | https://github.com/OpenVPN/openvpn |
+| VPN | Psiphon | https://www.psiphon.ca/ | https://github.com/Psiphon-Inc/psiphon |
 | Web Browser | Brave | https://brave.com/ | https://github.com/brave/ |
 | Web Browser | Chromium | https://www.chromium.org/ | https://chromium.googlesource.com/chromium/src.git |
 | Web Browser | K-Meleon | http://kmeleonbrowser.org/ | https://sourceforge.net/p/kmeleon/source/ci/default/tree/
