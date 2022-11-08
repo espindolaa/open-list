@@ -17,6 +17,7 @@ A repo to list all kinds of open source software
 | Database Management | DBeaver | https://dbeaver.io/ | https://github.com/dbeaver/dbeaver |
 | Database Management | Sequel Pro | https://www.sequelpro.com/ | https://github.com/sequelpro/sequelpro |
 | Diff Tool | WinMerge | https://winmerge.org/ | https://github.com/winmerge/winmerge |
+| Disk Encryption | VeraCrypt | https://veracrypt.fr/ | https://github.com/veracrypt/VeraCrypt |
 | Drawing | Draw IO | https://www.draw.io/ | https://github.com/jgraph/drawio |
 | Drawing | Krita | https://krita.org/en/ | https://invent.kde.org/kde/krita/ |
 | Email Client | Thunderbird | https://www.thunderbird.net | https://hg.mozilla.org/comm-central/ |
