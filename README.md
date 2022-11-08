@@ -4,6 +4,7 @@ A repo to list all kinds of open source software
 | Type | Name | Official Website | Source Code Repository |
 | ------------- | ------------- | ------------- | ----- |
 | Audio Editor | Audacity | https://www.audacityteam.org/ | https://github.com/audacity/audacity |
+| Automation | AutoHotkey | https://www.autohotkey.com/ | https://github.com/Lexikos/AutoHotkey_L |
 | Bug Tracker | Bugzilla | https://www.bugzilla.org/ | https://github.com/bugzilla/bugzilla |
 | CI | Abstruse | https://abstruse.bleenco.io/ | https://github.com/bleenco/abstruse |
 | CI | Jenkins | https://jenkins.io | https://github.com/jenkinsci |
